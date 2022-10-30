@@ -1,3 +1,12 @@
 INFO:root:Function call eleph
 INFO:root:Function call eleph
 INFO:root:Function call eleph_move
+INFO:root:Function call queen
+INFO:root:Function call queen
+INFO:root:Function call queen_move
+INFO:root:Function call rook
+INFO:root:Function call rook
+INFO:root:Function call rook_move
+INFO:root:Function call horse
+INFO:root:Function call queen
+INFO:root:Function call queen
